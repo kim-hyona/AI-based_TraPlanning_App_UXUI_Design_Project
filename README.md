@@ -1,14 +1,9 @@
-AI-based Travel Planning App UX/UI Design Project
+# 🌍 AI-Based Travel Planning App — UX/UI Design Project
 
-
-이 프로젝트도 ux/ui디자인 수업이나, 직접 어플을 만들어 보았습니다. 허나, 기본적인 버튼만 작동하는 점 양해 부탁드리며, 디자인 요소만 봐주시면 very thanks.
-
-
-기존의 TRIPLE이라는 어플에서 개선해야할 디자인과 기능들을 넣어 구현했습니다.
-이 어플의 차별점은 본인의 여행스타일을 카테코리로 지정하여 ai가 분석 후 최고의 여행플랜을 짜준다는 점입니다.
-
-(추후에 기능을 추가하여 완전한 어플을 만들고 싶습니다.)
-
+“An intelligent travel planner that tailors your trip to your style.”
+This project was created as part of a UX/UI design course, and a basic version of the application was also developed.
+Please note that only basic buttons are currently functional — the focus of this prototype is on design elements, not full functionality.
+I appreciate your understanding, and I’d be very thankful if you could review the design aspect in particular.
 
 
 -----
